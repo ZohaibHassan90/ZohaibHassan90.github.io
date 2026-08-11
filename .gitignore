@@ -1,0 +1,4 @@
+.DS_Store
+.bg-tools/
+*.local
+.vercel/
